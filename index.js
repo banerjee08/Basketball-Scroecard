@@ -50,3 +50,11 @@ function addThreeG() {
   guestCount = guestCount + 3;
   guestScore.innerHTML = guestCount;
 }
+
+function resetHomeScore() {
+  homeScore.innerHTML = 00;
+}
+
+function resetGuestScore() {
+  guestScore.innerHTML = 00;
+}

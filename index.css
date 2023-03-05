@@ -78,3 +78,10 @@ h3{
     padding: 8px 10px;
     color: #9AABD8; 
 }
+
+.reset-btn-home,
+.reset-btn-guest{
+    padding: 10px 0; 
+    border-radius: 10px;
+}
+
