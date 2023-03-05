@@ -1,6 +1,7 @@
 body {
     margin: 0;
     background-color: #1B244A;
+    font-family: 'Cursed Timer ULiL', sans-serif;
 }
 
 /* typography */
@@ -18,11 +19,6 @@ h3{
     font-weight: 700;
     font-size: 40px;
     color: #EEEEEE;
-}
-
-.score,
-.counter{
-    font-family: 'Cursed Timer ULiL', sans-serif;
 }
 
 .score{
@@ -77,6 +73,8 @@ h3{
 .add-two,
 .add-three{
     border: 2px solid #9AABD8;
+    background-color: #1B244A;
     border-radius: 5px;
     padding: 8px 10px;
+    color: #9AABD8; 
 }
